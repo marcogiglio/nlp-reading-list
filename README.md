@@ -3,7 +3,7 @@
 
 ## General
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361): a study of the performance curves of auto-regressive neural language models at different parameters sizes 
-- [Neural Machine Translation of Rare Words with Subword Units](https://www.aclweb.org/anthology/P16-1162.pdf): the paper is the first to apply the Byte-Pair-Encoding algorithm to encode words as sequences of subwords units. This enables Neural Machine Translation to tackle open-words vocabulary.
+- [Neural Machine Translation of Rare Words with Subword Units](https://www.aclweb.org/anthology/P16-1162.pdf): the paper is the first to apply the Byte-Pair-Encoding (BPE) algorithm to encode words as sequences of subwords units. This enables Neural Machine Translation to tackle open-words vocabulary.
 
 
 ## Transformers Architecture
